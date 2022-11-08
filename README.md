@@ -9,7 +9,7 @@ Web Developer based in Brazil 🦜
  Take your time and maybe you'll find something of your interets here 💕
 
 - 🔭 I’m currently working on [Kine Indie](https://github.com/mirnatetzner/Cine-Indie-Page) 
-- 🌱 I’m currently learning *Python for Data Analytics* and *TypeScript*!
+- 🌱 I’m currently learning *TypeScript* and *Python for Data Analytics*!
 - 😄 Pronouns: she/her
 
 ### My main technologies
