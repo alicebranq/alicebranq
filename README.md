@@ -4,12 +4,12 @@
 
 Web Developer based in Brazil 🦜
 
- Historian and Web Developer, I'm passionate about knowlegde and discovering new things! I've completed the Resilia's course in *Full-stack Web Development* in septempber of 2022, and now I'm currently looking for new pratical experiences to learn new skills and aprimorate the ones I've already got.
+Historian and Web Developer, I'm passionate about knowledge and discovering new things! I completed Resilia's *Full-stack Web Development* course in September 2022, and now I'm looking for new hands-on experiences to learn new skills and improve the ones I already have.
  
- Take your time and maybe you'll find something of your interets here 💕
+Take your time and maybe you'll find something of interest here. 💕
 
 <!-- - 🔭 I’m currently working on [Kine Indie](https://github.com/mirnatetzner/Cine-Indie-Page)  -->
-- 🌱 I’m currently learning *TypeScript* and *Python for Data Analytics*!
+- 🌱 I’m currently learning *TypeScript*, *Next.js* and *Python for Data Analytics*!
 - 😄 Pronouns: she/her
 
 
