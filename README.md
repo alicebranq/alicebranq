@@ -1,18 +1,21 @@
 ### Hello, World! 👋
 
-<img src= 'https://user-images.githubusercontent.com/102565368/192811409-591e200e-f314-4dff-a96b-b89f539cf13b.gif' width='180'>
+<img src= 'https://user-images.githubusercontent.com/102565368/192811409-591e200e-f314-4dff-a96b-b89f539cf13b.gif' width='160'>
 
 Web Developer based in Brazil 🦜
 
-History student and Developer, I'm passionate about knowledge and discovering new things! 
+Developer, Data Analyst (in the making) and History student, I'm passionate about discovering new things! 
 
-I've completed Resilia's *Full-stack Web Development* course in September 2022, and now I'm looking for new experiences to learn new skills and improve the ones I already have.
+I've completed Resilia's *Full-stack Web Development* course in September 2022. In March 2023 I started the higher technology course in *System Analysis and Development* at IBMR, to deepen my knowledge.
+
+Looking for new experiences to learn new skills in practice and improve the ones I already have.
  
-Take your time and maybe you'll find something of interest here. 💕
+Be welcome and take your time! Maybe you'll find something interesting here.
 
-<!-- - 🔭 I’m currently working on [Kine Indie](https://github.com/mirnatetzner/Cine-Indie-Page)  -->
-- 🌱 I’m currently learning *TypeScript* and *Python for Data Analytics*!
+- 🔭 I’m currently graduating in *Systems Analysis and Development* at IBMR
+- 🌱 I’m currently learning *Python for Data Analytics* and *MongoDB*!
 - 😄 Pronouns: she/her
+- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/alicebranquinho/)
 
 
 ### My main technologies
@@ -23,7 +26,7 @@ Take your time and maybe you'll find something of interest here. 💕
 [![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicebranq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-*"Taking every step at a time and learning something new every day"*
+*"For the things we have to learn before we can do them, we learn by doing them"*
 
 <!--
 **alicebranq/alicebranq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
