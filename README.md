@@ -2,20 +2,18 @@
 
 <img src= 'https://user-images.githubusercontent.com/102565368/192811409-591e200e-f314-4dff-a96b-b89f539cf13b.gif' width='160'>
 
-Web Developer based in Brazil 🦜
+UX Reasercher and Analyst based in Brazil 🦜
 
-Developer, Data Analyst (in the making) and History student, I'm passionate about discovering new things! 
+Used to be lost between development, data analysis, history... And now I found myself in UX!
 
-I've completed Resilia's *Full-stack Web Development* course in September 2022. In March 2023 I started the higher technology course in *System Analysis and Development* at IBMR, to deepen my knowledge.
-
-Looking for new experiences to learn new skills in practice and improve the ones I already have.
  
 Be welcome and take your time! Maybe you'll find something interesting here.
 
-- 🔭 I’m currently graduating in *Systems Analysis and Development* at IBMR
-- 🌱 I’m currently learning *Python for Data Analytics* and *MongoDB*!
-- 😄 Pronouns: she/her
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/alicebranquinho/)
+- ✔️ Finished Resilia's Full Stack Web Development in Set, 2022
+- 🔭 Currently graduating in *Systems Analysis and Development* at IBMR
+- 🌱 I’m currently learning *UX Desing* and *Data Analysis*
+- 👤 [Behance](https://www.linkedin.com/in/alicebranquinho/)
+- 📫 [Linkedin](https://www.linkedin.com/in/alicebranquinho/)
 
 
 ### My main technologies
