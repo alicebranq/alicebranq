@@ -12,8 +12,8 @@ Be welcome and take your time! Maybe you'll find something interesting here.
 - ✔️ Finished Resilia's Full Stack Web Development in Set, 2022
 - 🔭 Currently graduating in *Systems Analysis and Development* at IBMR
 - 🌱 I’m currently learning *UX Desing* and *Data Analysis*
-- 👤 [Behance](https://www.linkedin.com/in/alicebranquinho/)
-- 📫 [Linkedin](https://www.linkedin.com/in/alicebranquinho/)
+- 👤 [**Behance**](https://www.behance.net/alicebranquinho)
+- 📫 [**Linkedin**](https://www.linkedin.com/in/alicebranquinho/)
 
 
 ### My main technologies
