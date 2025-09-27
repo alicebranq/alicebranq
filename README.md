@@ -2,16 +2,16 @@
 
 <img src= 'https://user-images.githubusercontent.com/102565368/192811409-591e200e-f314-4dff-a96b-b89f539cf13b.gif' width='160'>
 
-UX Reasercher and Analyst based in Brazil 🦜
+UX Reasercher and Data Analyst based in Brazil 🦜
 
-Used to be lost between development, data analysis, history... And now I found myself in UX!
 
  
 Be welcome and take your time! Maybe you'll find something interesting here.
 
+- 📠 Worked at @Equinix from Sep/2023 to Dec/2024 as a UX Data Analyst
 - ✔️ Finished Resilia's Full Stack Web Development in Set, 2022
-- 🔭 Currently graduating in *Systems Analysis and Development* at IBMR
-- 🌱 I’m currently learning *UX Desing* and *Data Analysis*
+- 🔭 Graduated in *Systems Analysis and Development* at IBMR
+- 🌱 I’m currently learning more about *UX Desing* and *Data Analysis*
 - 👤 [**Behance**](https://www.behance.net/alicebranquinho)
 - 📫 [**Linkedin**](https://www.linkedin.com/in/alicebranquinho/)
 
